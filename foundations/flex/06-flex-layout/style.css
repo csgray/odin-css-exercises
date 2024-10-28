@@ -28,6 +28,9 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+
+  padding: 4px 12px;
+  margin: 12px 0px;
 }
 
 input {
@@ -67,12 +70,6 @@ a {
 .buttons {
   display: flex;
   gap: 4px;
-}
-
-button {
-  padding: 4px 12px;
-  margin: 12px 0px;
-  border-radius: 8px;
 }
 
 .content {
